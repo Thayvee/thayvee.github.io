@@ -21,13 +21,13 @@ Python, geospatial data and UI/UX are by far my favorite tools/cores to use when
 - Server Side: Linux (Ubuntu, CentOS, Fedora, Debian...), Windows Server, Apache. 
 - Methodologies: Agile (SCRUM, Kanban).
 
-### Work Experience
+### work experience
 
 - 2017: Professional Internship at Municipio de Panamá developing the web platform to visualize geospatial data "GeoMupa".
 - 2018 - present: Computational Analyst and Techonology Methods at Municipio de Panamá, taking care of the following systems: GeoMupa, Sistema de Información Territorial (SIT), municipal GeoNode, Nomenclatura, DPU website, Trámite de Certificaciones de Uso de Suelo del corregimiento de San Francisco. 
 - Freelance: UI/UX designer for different clients
 
-### Interesting stuff about me
+### interesting stuff about me
 
 - I have a software application as a pattent (pa 455-007-2016)
 - I draw a lot, some of my artwork were/are on publications, books, and art exhibitions
