@@ -17,7 +17,7 @@ baseurl: ""
 title: Thayra M.
 
 # Short description of your site
-description: ¡Welcome!
+description: Thayra M. personnal page
 
 # --- Navigation bar options --- #
 
@@ -43,7 +43,7 @@ avatar: "/img/avatar-icon.png"
 # Personalize the colors in your website. Colour values can be any valid CSS colour
 
 navbar-col: "#F5F5F5"
-navbar-text-col: "#571773"
+navbar-text-col: "#AD63CD"
 navbar-children-col: "#F5F5F5"
 page-col: "#FFFFFF"
 link-col: "#AD63CD"
@@ -72,7 +72,7 @@ author:
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
 #  rss: false
-email: "contactothayra@gmail.com"
+email: contactothayra@gmail.com
 #  facebook: Thayvee
 github: Thayvee
 twitter: ImThayvee
@@ -163,7 +163,7 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-      comments: true  # add comments to all blog posts
+      comments: false  # add comments to all blog posts
       social-share: true # add social media sharing buttons to all blog posts
   -
     scope:
