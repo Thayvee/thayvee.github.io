@@ -32,4 +32,4 @@ Python, geospatial data and UI/UX are by far my favorite tools/cores to use when
 - I have a software application as a pattent (pa 455-007-2016)
 - I draw a lot, some of my artwork were/are on publications, books, and art exhibitions
 - I won a Hackhaton when I was in college. Third place :) 
-- I write on a small tech [blog](https://https://anotherprogrammer.com/). We are in baby steps right now. 
+- I write on a small tech [blog](https://www.anotherprogrammer.com/). We are in baby steps right now. 
