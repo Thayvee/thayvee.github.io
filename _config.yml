@@ -17,7 +17,7 @@ baseurl: ""
 title: Thayra M.
 
 # Short description of your site
-description: Thayra M. personnal page
+description: Thayra M. personal page
 
 # --- Navigation bar options --- #
 
@@ -57,7 +57,7 @@ footer-link-col: "#AD63CD"
 
 # navbar-img: "/img/bgimage.png"
 # footer-img: "/img/bgimage.png"
- page-img: "/img/bgimage.png"
+# page-img: "/img/bgimage.png"
 
 # --- Footer options --- #
 
