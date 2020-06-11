@@ -38,6 +38,6 @@ Python, geospatial data and UI/UX are by far my favorite tools to work with when
 
 ### Contact me
 
--[LinkedIn]
-- 
+-[LinkedIn](https://www.linkedin.com/in/thayra-marin-90602b135/)
+- [Github](https://github.com/Thayvee )
 
