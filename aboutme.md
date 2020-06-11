@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Know me
-subtitle: Want to know me a little better?
+title: Lets "talk" a little
+subtitle: My experience as a programmer
 show-avatar: true
 ---
 
@@ -37,7 +37,7 @@ Python, geospatial data and UI/UX are by far my favorite tools to work with when
 - I write on a small tech [blog](https://www.anotherprogrammer.com/). We are in baby steps right now. 
 
 ### Contact me
-
--[LinkedIn](https://www.linkedin.com/in/thayra-marin-90602b135/)
-- [Github](https://github.com/Thayvee )
+[Email](Email: "mailto:contactothayra@gmail.com")
+[LinkedIn](https://www.linkedin.com/in/thayra-marin-90602b135/)
+[Github](https://github.com/Thayvee)
 
