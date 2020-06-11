@@ -25,7 +25,7 @@ description: Programer
 navbar-links:
   About me: "aboutme"
   Contact me:
-     - Email: "mailto:contactothayra@gmail.com" 
+     - Email: "[mailto]:contactothayra@gmail.com" 
      - GitHub Pages: "https://github.com/Thayvee"
      - LinkedIn: "https://www.linkedin.com/in/thayra-marin-90602b135/"
   
@@ -42,14 +42,14 @@ avatar: "/img/avatar-icon.png"
 # then specify the following parameter
 # title-img: /path/to/image
 
-# --- Background colour/image options --- #
+# --- Background colour/image options ---  CDB1FA#
 
 # Personalize the colors in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#CDB1FA"
+navbar-col: "#E1CEFF"
 navbar-text-col: "#AD63CD"
 navbar-children-col: "#F5F5F5"
-page-col: "#FFFFFF"
+page-col: "#CDB1FA"
 link-col: "#AD63CD"
 hover-col: "#490267"
 footer-col: "#F5F5F5"
