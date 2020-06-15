@@ -1,12 +1,13 @@
 ---
 layout: page
 title: Lets "talk" a little
-subtitle: My experience as a programmer
+subtitle: My experience as a software developer
 show-avatar: true
 ---
 
 Hello, my name is Thayra Marín. I have the following qualities (at least that's how I call it):
 
+- I'm from Panama
 - I like dragons and fantasy stuff
 - I consider myself a good listener
 
@@ -37,7 +38,6 @@ Python, geospatial data and UI/UX are by far my favorite tools to work with when
 - I write on a small tech [blog](https://www.anotherprogrammer.com/). We are in baby steps right now. 
 
 ### Contact me
-[Email](Email: "mailto:contactothayra@gmail.com")
 [LinkedIn](https://www.linkedin.com/in/thayra-marin-90602b135/)
 [Github](https://github.com/Thayvee)
 
