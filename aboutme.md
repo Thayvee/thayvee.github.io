@@ -3,6 +3,7 @@ layout: page
 title: Lets "talk" a little
 subtitle: My experience as a software developer
 show-avatar: true
+use-site-title: true
 ---
 
 Hello, my name is Thayra Marín. I have the following qualities (at least that's how I call it):
