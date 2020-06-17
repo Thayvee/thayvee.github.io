@@ -789,6 +789,7 @@ td.gutter {
   float: left;
   width: 33.33%;
   padding: 10px;
+  margin: auto;
   /* height: 300px; /* Should be removed. Only for demonstration */
 }
 
