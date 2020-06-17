@@ -820,7 +820,7 @@ td.gutter {
   margin-right: auto;
 }
 
-.button1:hover {
+.button:hover {
   border: 3px solid #E1CEFF;
   color: #E1CEFF;
   background-color: #FFF;
