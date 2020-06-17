@@ -816,6 +816,8 @@ td.gutter {
   transition-duration: 0.4s;
   margin: 4px 2px;
   cursor: pointer;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .button1:hover {
