@@ -821,5 +821,6 @@ td.gutter {
 .button1:hover {
   border: 3px solid #E1CEFF;
   color: #E1CEFF;
+  background-color: #FFF;
 }
 
