@@ -823,10 +823,10 @@ td.gutter {
 .button:hover {
   border: 3px solid #E1CEFF;
   color: #E1CEFF;
-  background-color: #FFF;
+  background-color: transparent;
   transition-duration: 0.4s;
 }
 
-.center1 {
+.a {
   align-content: center;
 }
