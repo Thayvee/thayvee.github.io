@@ -23,7 +23,7 @@ As for human communication, I'm fluent in spanish, english and know my way in ko
 
 - Languages and frameworks: Python, Django, Dart (Flutter), JavaScript, XML, Transact-SQL, JSon, PHP, C#, Vue.js, Node.js, Angular, HTML5, CSS3,  .Net, Java.
 - DBMS: PostgreSQL, PostGIS, SQLite, MySQL, SQL Server, MariaDB.           
-- Technologies: QGIS, GeoNode, GeoServer, ArcGIS, Leaflet.
+- Technologies: Big, Data, QGIS, GeoNode, GeoServer, ArcGIS, Leaflet.
 - Server Side: Linux (Ubuntu, CentOS, Fedora, Debian...), Windows Server, Apache. 
 - Methodologies: Agile (SCRUM, KanBan).
 
@@ -44,4 +44,5 @@ As for human communication, I'm fluent in spanish, english and know my way in ko
 ### Contact me
 [LinkedIn](https://www.linkedin.com/in/thayra-marin-90602b135/)
 [Github](https://github.com/Thayvee)
+[CV](https://https://docs.google.com/document/d/1lhRjAYYaSlIivmT4HhFdvM_5caogOvw9aocXIVKQLjc/edit?usp=sharing)
 
