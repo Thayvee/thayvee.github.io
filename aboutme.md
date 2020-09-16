@@ -44,5 +44,5 @@ As for human communication, I'm fluent in spanish, english and know my way in ko
 ### Contact me
 [LinkedIn](https://www.linkedin.com/in/thayra-marin-90602b135/)
 [Github](https://github.com/Thayvee)
-[CV](https://drive.google.com/file/d/16BDZ4t09hvQlRYB-MKf52F5Dm68s9e88/view?usp=sharing)
+[CV](https://drive.google.com/file/d/1LS_JnCixDdhJPVf3jdFqjWvkyuzvhsoX/view?usp=sharing)
 
