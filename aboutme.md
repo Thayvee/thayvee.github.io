@@ -39,10 +39,10 @@ As for human communication, I'm fluent in spanish, english and know my way in ko
 - I have a software application as a pattent (pa 455-007-2016)
 - I draw a lot, some of my artwork was/is on publications, books, and art exhibitions.
 - I won a Hackhaton when I was in college. Third place :) 
-- I write on a small tech [blog](https://www.anotherprogrammer.com/). We are in baby steps right now. 
+- I write on a small tech [blog](https://www.anotherprogrammer.com/).
 
 ### Contact me
 [LinkedIn](https://www.linkedin.com/in/thayra-marin-90602b135/)
 [Github](https://github.com/Thayvee)
-[CV](https://drive.google.com/file/d/1LS_JnCixDdhJPVf3jdFqjWvkyuzvhsoX/view?usp=sharing)
+[CV](https://drive.google.com/file/d/1fXx51H1-uOB0zjRrkSBU4Y_iHwWQJp7-/view?usp=sharing)
 
